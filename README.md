@@ -1,5 +1,7 @@
 # Note for Social Force Model for Pedestrain Dynamics
-
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+- <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
+- <img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
 ## Formular of Social Force Model
 ### 1. Pedestrains with Pedestrains
 (Note that $\alpha, \beta$ means the different pedestrains.)
