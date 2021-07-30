@@ -8,7 +8,7 @@
 C++ (Programming Language)
 Visual Studio 2019 (IDE)
 ### Given Parameters
-The followings are the given parameters in the paper:
+The followings are the given parameters in the paper[1]:
 | Parameters            | Values              |
 | --------------------- | ------------------- |
 | $V^{0}_{\alpha\beta}$ | 2.1                 |
