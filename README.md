@@ -1,6 +1,7 @@
 # Social_Force_Model_Exercise
 ## Reference
 [1] Helbing, D. & Mulnár, P. Social force model for pedestrian dynamics. Phys. Rev. E 51, 4282– 4286 (1995).
+
 [2] https://github.com/svenkreiss/socialforce (Python SFM using Numpy)
 ## Implementation of SFM
 ### Enviornment
