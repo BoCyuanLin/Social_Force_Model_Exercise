@@ -9,6 +9,7 @@ C++ (Programming Language)
 Visual Studio 2019 (IDE)
 ### Given Parameters
 The followings are the given parameters in the paper[1]:
+
 ![parameters](https://github.com/BoCyuanLin/Social_Force_Model_Exercise/blob/main/parameters.png?raw=true)
 ### 2 pedestrains
 ![2_pedestrains](https://github.com/BoCyuanLin/Social_Force_Model_Exercise/blob/main/SFM_result/2_pedestrains.gif?raw=true)
