@@ -5,8 +5,9 @@
 [2] https://github.com/svenkreiss/socialforce (Python SFM using Numpy)
 ## Implementation of SFM
 ### Enviornment
-C++ (Programming Language)
-Visual Studio 2019 (IDE) WIN10
+C++ (Programming Language),
+Visual Studio 2019 (IDE),
+WIN10 (OS)
 ### Given Parameters
 The followings are the given parameters in the paper[1]:
 
