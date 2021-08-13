@@ -6,7 +6,7 @@
 ## Implementation of SFM
 ### Enviornment
 C++ (Programming Language)
-Visual Studio 2019 (IDE)
+Visual Studio 2019 (IDE) WIN10
 ### Given Parameters
 The followings are the given parameters in the paper[1]:
 
