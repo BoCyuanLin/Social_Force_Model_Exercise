@@ -1,4 +1,4 @@
-# Social_Force_Model_Exercise
+# Social Force Model Exercise
 ## Reference
 [1] Helbing, D. & Mulnár, P. Social force model for pedestrian dynamics. Phys. Rev. E 51, 4282– 4286 (1995).
 
